@@ -15,7 +15,7 @@ function App() {
       <Route path="/RyojiBernardo" element={<Hero name="Ryoji Bernardo" SN="2021107273"/>} />
       <Route path="/JohnVincentPeregrino" element={<Hero name="John Vincent Peregrino" SN="2020115902"/>} />
       <Route path="/MiguelLacanienta" element={<Hero name="Miguel Lacanienta" SN="2019130430"/>} />
-      <Route path="/ChampagneShengGonzales" element={<Hero name="Champagne Sheng Gonzales" SN="2021106176"/>} />
+      <Route path="/ChampagneShengGonzales" element={<Hero name="Champagne Sheng Gonzales" SN= "2021106176"/>} />
     </Routes>
   </div>
   );
